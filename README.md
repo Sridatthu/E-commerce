@@ -25,7 +25,7 @@ An eCommerce Application backend with Java Spring Boot with frontend using the R
 - Axios
 
 ## Schema Table
-![ER_diagram]
+![ER_diagram] (https://github.com/Sridatthu/E-commerce/blob/main/ER_diagram.png)
 
 ## Features
 
@@ -52,7 +52,7 @@ git clone
 ```
 ### Navigate to the project directory:
 ```
-cd eCommerce-Application
+cd E-commerce
 
 ```
 
@@ -152,38 +152,39 @@ http://localhost:3000
 You should now see the React frontend of the Ecommerce Application running locally.
 
 ## Below are the website Shot
-![register]
+![register](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/register.png)
 
-![login]
+![login](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/login.png)
 
-![home]
+![home](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/home.png)
 
-![product]
+![product](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/product.png)
 
-![cart]
+![cart](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/cart.png)
 
+![history](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/history.png)
 
-![history]
+![profile](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/profile.png)
 
-![profile]
+![admin](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/admin.png)
 
-![admin]
+![Allorderdetails](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/Allorderdetails.png)
 
-![Allorderdetails]
-![productadd]
+![productadd](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/productadd.png)
 
-![alluser]
+![alluser](https://github.com/Sridatthu/E-commerce/blob/main/ecomShot/alluser.png)
 
 
 ## Below are the endPoint
-![endpoint1]
+![endpoint1](https://github.com/Sridatthu/E-commerce/blob/main/end-point-shot/endpoint1.png)
 
-![endpoint2]
-![endpoint3]
+![endpoint2](https://github.com/Sridatthu/E-commerce/blob/main/end-point-shot/endpoint2.png)
 
-![endpoint4]
+![endpoint3](https://github.com/Sridatthu/E-commerce/blob/main/end-point-shot/endpoint3.png)
 
-![endpoint5]
+![endpoint4](https://github.com/Sridatthu/E-commerce/blob/main/end-point-shot/endpoint4.png)
+
+![endpoint5](https://github.com/Sridatthu/E-commerce/blob/main/end-point-shot/endpoint5.png)
 
 ## Links
 
