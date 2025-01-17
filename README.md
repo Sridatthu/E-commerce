@@ -25,7 +25,7 @@ An eCommerce Application backend with Java Spring Boot with frontend using the R
 - Axios
 
 ## Schema Table
-![ER_diagram] (https://github.com/Sridatthu/E-commerce/blob/main/ER_diagram.png)
+![ER_diagram](https://github.com/Sridatthu/E-commerce/blob/main/ER_diagram.png)
 
 ## Features
 
@@ -48,7 +48,7 @@ To install this application, run the following commands:
 
 ### Clone the project repository:
 ```bash
-git clone 
+git clone https://github.com/Sridatthu/E-commerce.git
 ```
 ### Navigate to the project directory:
 ```
