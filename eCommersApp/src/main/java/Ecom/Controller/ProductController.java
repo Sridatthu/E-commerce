@@ -45,7 +45,7 @@ public class ProductController {
        @RequestParam(required = false,defaultValue = "price") String sortBy
 
     ) {
-        List<Product> products = ProductServiceSam.getProducts();
+        List<Product> products = productService.getAllProduct(String keyword, String sortDirection, String sortBy);
         return new ResponseEntity<>(products, HttpStatus.OK);
     }
 
